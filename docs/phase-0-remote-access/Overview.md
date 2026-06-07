@@ -13,7 +13,7 @@ The objective of this phase was to establish remote access to my home desktop fr
 
 The primary focus was finding the right remote desktop application, which was chosen as RustDesk, before looking into the issue of off-network access. Once remote desktop within the same network was connected, I could then focus on multi-network remote access.
 
-Initially, I considered port forwarding, however this, without the proper implementation, would leave ports open to the public, leaving my home network vulnerable. As such, I went with Tailscale for its ease simple, intuitive implementation which allowed me access to my host machine.
+Initially, I considered port forwarding, however this, without the proper implementation, would leave ports open to the public, leaving my home network vulnerable. As such, I went with Tailscale for its simple, intuitive implementation which allowed me access to my host machine.
 
 ## Outcome:
 
