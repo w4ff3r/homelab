@@ -11,8 +11,19 @@
 
 ## Windows Server 2022 ISO Installation:
 
-1. Go to 
+1. Go to https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
+2. Install the ISO download
+3. Renamed to Windows_Server_ISO for understanding
+4. Move to dedicated ISO folder for ease of management
+
+![[Windows-Server-Installed.png]]
 
 ## Windows 11 Enterprise Evaluation ISO Installation:
 
-1. 
+1. Go to https://info.microsoft.com/ww-landing-windows-11-enterprise.html
+2. Register for a free trial
+3. Download the version you need (Because of my region, I selected the Great Britain version)
+4. Rename to Windows_11_Enterprise for understanding
+5. Move to dedicated ISO folder for ease of management
+
+![[Windows-Enterprise-Installed.png]]
