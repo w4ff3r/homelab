@@ -32,3 +32,6 @@ temp/
 .env.*
 secrets/
 credentials/
+
+#Documentation
+.obsidian/
