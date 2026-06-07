@@ -1,0 +1,34 @@
+# VMware
+*.vmdk
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
+*.lck
+*.vmxf
+*.vswp
+
+# ISOs
+*.iso
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+tmp/
+temp/
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Credentials
+.env
+.env.*
+secrets/
+credentials/
