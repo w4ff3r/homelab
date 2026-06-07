@@ -15,6 +15,7 @@ This repository documents my VMware-based homelab for learning and practicing cy
 ## Current Status
 
 - [x] VMware Workstation installed
+- [x] Remote access from external device configured
 - [ ] Windows Server 2022 VM created
 - [ ] Active Directory Domain Services configured
 - [ ] Windows client joined to domain
