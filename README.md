@@ -1,21 +1,32 @@
 # IT Homelab
 
-This is a repository for the creation, experimentation and documentation of my experience with learning and understanding different cyber-security, network and cloud practices.
+This repository documents my VMware-based homelab for learning and practicing cybersecurity, networking, cloud, and systems administration skills.
 
-A VMware-based homelab buit to develop skills in:
+## Skills Developed
 
-- Active directory
-- Winders Server
+- Active Directory
+- Windows Server
 - Group Policy
 - Networking
 - Linux administration
-- Azure Integreation
-- Security Monitoring
+- Azure integration
+- Security monitoring
 
-## Current Status:
+## Current Status
 
-- [x] VMware installed
-- [ ] Windows Server 2022
-- [ ] Active Directory
-- [ ] Group Policy
-- [ ] Azure Sync
+- [x] VMware Workstation installed
+- [ ] Windows Server 2022 VM created
+- [ ] Active Directory Domain Services configured
+- [ ] Windows client joined to domain
+- [ ] Group Policy configured
+- [ ] Azure integration
+- [ ] Security monitoring
+
+## Repository Structure
+
+```text
+docs/           Written documentation and setup notes
+screenshots/    Evidence of completed lab steps
+diagrams/       Network and system diagrams
+scripts/        PowerShell, Bash, and automation scripts
+configs/        Exported configuration examples
