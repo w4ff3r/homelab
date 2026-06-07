@@ -22,4 +22,8 @@
 
 1. Go to https://info.microsoft.com/ww-landing-windows-11-enterprise.html
 2. Register for a free trial
-3. 
+3. Download the version you need (Because of my region, I selected the Great Britain version)
+4. Rename to Windows_11_Enterprise for understanding
+5. Move to dedicated ISO folder for ease of management
+
+![[Windows-Enterprise-Installed.png]]

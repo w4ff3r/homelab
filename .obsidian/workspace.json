@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phase-0-remote-access/Tailscale.md",
+                "file": "docs/phase-0-remote-access/Rustdesk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tailscale"
+              "title": "Rustdesk"
             }
           }
         ]
@@ -186,9 +186,11 @@
   "active": "28daa9eb833289d0",
   "lastOpenFiles": [
     "docs/phase-0-remote-access/Lessons learned.md",
-    "docs/phase-0-remote-access/Rustdesk.md",
     "docs/phase-0-remote-access/Tailscale.md",
+    "docs/phase-0-remote-access/Rustdesk.md",
+    "screenshots/phase-1/Rustdesk-Downloaded.png",
     "docs/phase-1-active-directory/Installation.md",
+    "screenshots/phase-1/Windows-Enterprise-Installed.png",
     "docs/phase-0-remote-access",
     "screenshots/phase-1/Windows-Server-Installed.png",
     "README.md",
