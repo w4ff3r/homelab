@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phase-1-active-directory/Domain-Controller-Promotion.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain-Controller-Promotion"
+              "title": "README"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "28daa9eb833289d0",
   "lastOpenFiles": [
+    "docs/phase-1-active-directory/Domain-Controller-Promotion.md",
     "docs/phase-1-active-directory/Troubleshooting.md",
     "diagrams/phase-2-after-ad.md",
     "diagrams/phase-1-before-ad.md",
     "docs/phase-1-active-directory/Domain-Installation.md",
-    "docs/phase-1-active-directory/Domain-Controller-Promotion.md",
     "docs/phase-1-active-directory/Static-IP-Configuration.md",
     "docs/phase-1-active-directory/Initial-Installation.md",
     "screenshots/phase-1/ADDS-Configuration-Prerequisites-Passed.png",
