@@ -18,7 +18,7 @@ This repository documents my VMware-based homelab for learning and practicing cy
 - [x] Remote access from external device configured
 - [x] Windows Server 2022 VM created
 - [x] Active Directory Domain Services configured
-- [ ] Windows client joined to domain
+- [x] Windows client joined to domain
 - [ ] Group Policy configured
 - [ ] Azure integration
 - [ ] Security monitoring
