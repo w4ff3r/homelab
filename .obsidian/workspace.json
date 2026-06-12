@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phase-1-active-directory/Domain-Controller-Promotion.md",
+                "file": "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain-Controller-Promotion"
+              "title": "10-Joining-CL01-to-the-Domain"
             }
           }
         ]
@@ -186,12 +186,25 @@
   "active": "28daa9eb833289d0",
   "lastOpenFiles": [
     "docs/phase-1-active-directory/Troubleshooting.md",
+    "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
+    "docs/phase-1-active-directory/09-Windows-11-Client-Installation.md",
+    "docs/phase-1-active-directory/08-Computer-Organizational-Units.md",
+    "docs/phase-1-active-directory/07-Security-Group.md",
+    "docs/phase-1-active-directory/06-Creating-Users.md",
+    "docs/phase-1-active-directory/05-Organizational-Unit-Structure.md",
+    "docs/phase-1-active-directory/04-Domain-Controller-Promotion.md",
+    "docs/phase-1-active-directory/02-Static-IP-Configuration.md",
+    "docs/phase-1-active-directory/01-Domain-Installation.md",
+    "docs/phase-1-active-directory/00-Initial-Installation.md",
+    "docs/phase-1-active-directory/Lessons-Learned.md",
+    "screenshots/phase-1/User-Added-To-Group.png",
+    "screenshots/phase-1/Security-Groups-Created.png",
+    "screenshots/phase-1/IT-Users-Created.png",
+    "screenshots/phase-1/User-Creation-Tab.png",
+    "README.md",
+    "screenshots/phase-1/Organisational-Units-Structure.png",
     "diagrams/phase-2-after-ad.md",
     "diagrams/phase-1-before-ad.md",
-    "docs/phase-1-active-directory/Domain-Installation.md",
-    "docs/phase-1-active-directory/Domain-Controller-Promotion.md",
-    "docs/phase-1-active-directory/Static-IP-Configuration.md",
-    "docs/phase-1-active-directory/Initial-Installation.md",
     "screenshots/phase-1/ADDS-Configuration-Prerequisites-Passed.png",
     "screenshots/phase-1/Installing-ADDS.png",
     "screenshots/phase-1/Static-IPv4-Address-Configured.png",
@@ -201,18 +214,10 @@
     "docs/phase-0-remote-access/Overview.md",
     "screenshots/phase-1/VMware-Installed.png",
     "screenshots/phase-1/Windows-Enterprise-Installed.png",
-    "screenshots/phase-1/Windows-Server-Installed.png",
-    "screenshots/phase-0/Tailscale-Installed.png",
     "configs/zsasd.md",
     "docs/phase-0-remote-access/Lessons learned.md",
-    "Pasted image 20260607230024.png",
-    "README.md",
     "screenshots/phase-0",
-    "screenshots/phase-0/Rustdesk-Downloaded.png",
     "docs/phase-0-remote-access",
-    "Pasted image 20260607104403.png",
-    "docs/phase-1-active-directory/Lessons-Learned.md",
-    "docs/phase-1-active-directory/User-and-Groups.md",
     "scripts/automation",
     "scripts/bash",
     "scripts/powershell",
