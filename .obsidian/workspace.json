@@ -185,6 +185,7 @@
   },
   "active": "28daa9eb833289d0",
   "lastOpenFiles": [
+    "docs/phase-1-active-directory/Domain-Controller-Promotion.md",
     "docs/phase-1-active-directory/Troubleshooting.md",
     "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
     "docs/phase-1-active-directory/09-Windows-11-Client-Installation.md",
@@ -205,6 +206,9 @@
     "screenshots/phase-1/Organisational-Units-Structure.png",
     "diagrams/phase-2-after-ad.md",
     "diagrams/phase-1-before-ad.md",
+    "docs/phase-1-active-directory/Domain-Installation.md",
+    "docs/phase-1-active-directory/Static-IP-Configuration.md",
+    "docs/phase-1-active-directory/Initial-Installation.md",
     "screenshots/phase-1/ADDS-Configuration-Prerequisites-Passed.png",
     "screenshots/phase-1/Installing-ADDS.png",
     "screenshots/phase-1/Static-IPv4-Address-Configured.png",
