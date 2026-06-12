@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
+                "file": "docs/phase-1-active-directory/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Joining-CL01-to-the-Domain"
+              "title": "Troubleshooting"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "28daa9eb833289d0",
   "lastOpenFiles": [
-    "docs/phase-1-active-directory/Troubleshooting.md",
     "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
+    "docs/phase-1-active-directory/Troubleshooting.md",
     "docs/phase-1-active-directory/09-Windows-11-Client-Installation.md",
     "docs/phase-1-active-directory/08-Computer-Organizational-Units.md",
     "docs/phase-1-active-directory/07-Security-Group.md",
