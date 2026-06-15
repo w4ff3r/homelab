@@ -183,10 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "28daa9eb833289d0",
+  "active": "d1b99169cadf955f",
   "lastOpenFiles": [
-    "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant",
     "docs/phase-2-infrastructure/00-Initialisation.md",
+    "docs/phase-2-infrastructure",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Initial-Configuration.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Home-Assistant-VM-Setup.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/README.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-5-hardware",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-4-automations",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-2-plex-integration",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant",
+    "docs/other-projects/home-assistant/home-cinema-automation",
+    "docs/other-projects/home-assistant",
+    "docs/other-projects",
+    "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
     "README.md",
     "screenshots/phase-1/User-Creation-Tab.png",
     "screenshots/phase-1/User-Added-To-Group.png",
@@ -216,20 +229,7 @@
     "screenshots/phase-1/Static-IPv4-Address-Configured.png",
     "docs/phase-0-remote-access/Tailscale.md",
     "docs/phase-1-active-directory/Untitled",
-    "docs/phase-0-remote-access/Rustdesk.md",
-    "docs/phase-0-remote-access/Overview.md",
     "screenshots/phase-1/VMware-Installed.png",
-    "screenshots/phase-1/Windows-Enterprise-Installed.png",
-    "configs/zsasd.md",
-    "docs/phase-0-remote-access/Lessons learned.md",
-    "screenshots/phase-0",
-    "docs/phase-0-remote-access",
-    "scripts/automation",
-    "scripts/bash",
-    "scripts/powershell",
-    "screenshots/phase-4",
-    "screenshots/phase-3",
-    "screenshots/phase-2",
-    "screenshots/phase-1"
+    "screenshots/phase-1/Windows-Enterprise-Installed.png"
   ]
 }
