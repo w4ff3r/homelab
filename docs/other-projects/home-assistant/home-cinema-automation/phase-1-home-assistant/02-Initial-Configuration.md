@@ -16,6 +16,8 @@ complete the onboarding wizard.
 
 ## Administrator Account
 
+(For documentation purposes; I used personal login details)
+
 Create:
 
 ### Username

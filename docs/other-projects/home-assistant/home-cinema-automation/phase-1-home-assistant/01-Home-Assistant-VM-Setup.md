@@ -166,7 +166,7 @@ Power on the virtual machine.
 
 Output:
 
-![[Pasted image 20260622100542.png]]
+![[Home-Assistant-VM-Running.png]]
 
 Home Assistant will initialize and eventually display:
 
