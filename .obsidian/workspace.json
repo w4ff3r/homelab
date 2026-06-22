@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Home-Assistant-VM-Setup.md",
+                "file": "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home-Assistant-VM-Setup"
+              "title": "Troubleshooting"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "28daa9eb833289d0",
   "lastOpenFiles": [
-    "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Initial-Configuration.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Home-Assistant-VM-Setup.md",
+    "Pasted image 20260622100542.png",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Troubleshooting.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant/Initial-Configuration.md",
     "docs/other-projects/home-assistant/home-cinema-automation/README.md",
     "docs/phase-2-infrastructure/00-Initialisation.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant",
@@ -227,7 +229,6 @@
     "screenshots/phase-1/ADDS-Configuration-Prerequisites-Passed.png",
     "screenshots/phase-1/Installing-ADDS.png",
     "screenshots/phase-1/Static-IPv4-Address-Configured.png",
-    "screenshots/phase-1/VMware-Installed.png",
-    "screenshots/phase-1/Windows-Enterprise-Installed.png"
+    "screenshots/phase-1/VMware-Installed.png"
   ]
 }
