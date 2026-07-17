@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/01-Dashboard-Design-Plan.md",
+                "file": "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Dashboard-Design-Plan"
+              "title": "10-Joining-CL01-to-the-Domain"
             }
           }
         ]
@@ -185,12 +185,21 @@
   },
   "active": "28daa9eb833289d0",
   "lastOpenFiles": [
-    "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/06-Troubleshooting.md",
-    "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/05-Dashboard-Views.md",
+    "docs/phase-1-active-directory/09-Windows-11-Client-Installation.md",
+    "docs/phase-1-active-directory/08-Computer-Organizational-Units.md",
+    "docs/phase-1-active-directory/07-Security-Group.md",
+    "docs/phase-1-active-directory/06-Creating-Users.md",
+    "docs/phase-1-active-directory/05-Organizational-Unit-Structure.md",
+    "docs/phase-1-active-directory/04-Domain-Controller-Promotion.md",
+    "docs/phase-1-active-directory/02-Static-IP-Configuration.md",
+    "docs/phase-1-active-directory/01-Domain-Installation.md",
+    "docs/phase-1-active-directory/00-Initial-Installation.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/01-Dashboard-Design-Plan.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/04-Admin-Test-Dashboard.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/05-Dashboard-Views.md",
+    "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/06-Troubleshooting.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/03-Frontend-Dependencies.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/02-Dashboard-Architecture.md",
-    "docs/other-projects/home-assistant/home-cinema-automation/phase-3-dashboard/01-Dashboard-Design-Plan.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-2-plex-integration/02-Media-Entities.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-2-plex-integration/03-Primary-Playback-Entities.md",
     "docs/other-projects/home-assistant/home-cinema-automation/phase-2-plex-integration/Troubleshooting.md",
@@ -214,20 +223,11 @@
     "docs/other-projects/home-assistant/home-cinema-automation/phase-1-home-assistant",
     "docs/other-projects/home-assistant/home-cinema-automation",
     "docs/phase-1-active-directory/10-Joining-CL01-to-the-Domain.md",
-    "README.md",
     "screenshots/phase-1/User-Creation-Tab.png",
     "screenshots/phase-1/User-Added-To-Group.png",
     "screenshots/phase-1/Security-Groups-Created.png",
     "screenshots/phase-1/Organisational-Units-Structure.png",
     "screenshots/phase-1/IT-Users-Created.png",
-    "docs/phase-1-active-directory/09-Windows-11-Client-Installation.md",
-    "docs/phase-1-active-directory/08-Computer-Organizational-Units.md",
-    "docs/phase-1-active-directory/07-Security-Group.md",
-    "docs/phase-1-active-directory/06-Creating-Users.md",
-    "docs/phase-1-active-directory/05-Organizational-Unit-Structure.md",
-    "docs/phase-1-active-directory/04-Domain-Controller-Promotion.md",
-    "docs/phase-1-active-directory/02-Static-IP-Configuration.md",
-    "docs/phase-1-active-directory/01-Domain-Installation.md",
     "screenshots/phase-1/ADDS-Configuration-Prerequisites-Passed.png",
     "screenshots/phase-1/Installing-ADDS.png",
     "screenshots/phase-1/Static-IPv4-Address-Configured.png"
